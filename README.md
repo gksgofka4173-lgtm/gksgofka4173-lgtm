@@ -1,81 +1,21 @@
-## Hi there 👋
+# 👋 안녕하세요, AI 데이터 분석가를 준비하고 있습니다.
 
-<!--
-**gksgofka4173-lgtm/gksgofka4173-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python과 통계를 기반으로 데이터를 분석하고, 데이터에서 의미 있는 인사이트를 찾는 과정에 관심이 있습니다.
 
-Here are some ideas to get you started:
+- 🎓 **학습 과정:** 6개월 데이터 분석 부트캠프 수료 예정
+- 🐍 **주요 언어:** Python
+- 📊 **관심 분야:** 금융·주식 데이터 분석, 시계열 분석, 예측 모델링
+- 🔍 **학습 방향:** 데이터 전처리, EDA, 통계 분석 및 머신러닝 기초
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 안녕하세요! `Your Name`입니다.
-
-### 📊 데이터 분석가 지망생 | Python 개발자
-
-데이터를 통해 의미 있는 인사이트를 발견하는 데 관심이 있는 데이터 분석가 지망생입니다.
-
-현재 Python과 통계학을 기반으로 데이터 분석 역량을 쌓고 있으며, 특히 **주식 데이터 분석과 시계열 분석**에 관심을 가지고 있습니다.
-
-- 🌱 Python 및 통계적 데이터 분석 학습 중
-- 📈 주식 시장 및 금융 데이터 분석에 관심
-- ⏳ 시계열 분석 및 예측 기법 학습 중
-- 🐍 실습과 프로젝트를 통해 Python 역량 강화 중
-- 🎯 데이터에서 의미 있는 인사이트를 도출하는 데이터 분석가가 되는 것이 목표입니다.
-
----
-
-### 🛠️ 기술 스택 (Tech Stack)
-
-**프로그래밍 및 데이터 분석**
-
+### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**통계 및 데이터 시각화**
-
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-**개발 도구**
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🎯 목표
+작은 분석 프로젝트부터 차근차근 쌓으며, 데이터로 문제를 정의하고 근거 있는 결론을 도출하는 분석가로 성장하겠습니다.
 
 ---
-
-### 📚 관심 분야 (Areas of Interest)
-
-- 📈 주식 시장 및 금융 데이터 분석
-- ⏳ 시계열 분석 및 예측 (Time Series Analysis & Forecasting)
-- 📊 통계 분석 및 가설 검정
-- 🔍 탐색적 데이터 분석 (EDA)
-- 💹 금융 데이터 시각화
-
----
-
-### 🚀 현재 진행 중인 학습 (Currently Learning)
-
-- Python을 활용한 데이터 분석 실습
-- 통계학 기초 개념 및 분석 기법 학습
-- 금융 및 주식 데이터 탐색
-- 데이터 분석 프로젝트 수행 및 포트폴리오 구축
-
----
-
-### 📫 연락처 (Contact)
-
-- GitHub: [@`YourGitHubID`](https://github.com/YourGitHubID)
-- Email: `YourEmail@example.com`
-
----
-
-*"데이터를 배우고, 패턴을 발견하며, 인사이트를 가치로 연결합니다."* 📊
+*꾸준히 배우고, 직접 분석하며, 결과로 보여주겠습니다.*
